@@ -1,28 +1,30 @@
 
 
 /*
+
 README:
 This code is not the original code. 
 The purpose of this code is to test the Motor direction, speed and behavior.
 Additionally, it reeds the signal provided by the Infrared Sensors and prints it out in serial monitor.
-So that I can make further adjectments in the wiring and some adjustments in the original firmware.
+So that I can make further adjustments in the wiring and some adjustments in the original firmware.
+I will make the actual firmware once the tests are complete
 
 */
 
 //-- Motor 1 
-const int I1 = 0;
-const int I2 = 0;
-const int ena = 0;
+const int I1 = 17;
+const int I2 = 16;
+const int ena = 25;
 
 //-- Motor 2
-const int I3 = 0;
-const int I4 = 0;
-const int enb = 0;
+const int I3 = 14;
+const int I4 = 27;
+const int enb = 26;
 
 //-- IR sensors
-const int IR1 = 0;
-const int IR2 = 0;
-const int IR3 = 0;
+const int IR1 = 35;
+const int IR2 = 34;
+const int IR3 = 39;
 
 int updateDelay = 5000;
 int delaymotor = 5000;
@@ -60,7 +62,7 @@ void readPrintSignal(){
 }
 
 //-- Motor rotation direction test
-void runMotorLeft(){
+void runMotorRight(){
   digitalWrite(I1, HIGH); // I may change this later if motor runs opposite direction
   digitalWrite(I2, LOW);
   analogWrite(ena, 255);
@@ -74,7 +76,7 @@ void runMotorLeft(){
 
 }
 
-void runMotorRight(){
+void runMotorLeft(){
   digitalWrite(I3, HIGH); // I may change this later if motor runs opposite direction
   digitalWrite(I4, LOW);
   analogWrite(enb, 255);
@@ -91,8 +93,8 @@ void runMotorRight(){
 
 void loop() {
   readPrintSignal();
-  runMotorLeft();
   runMotorRight();
+  runMotorLeft();
   delay(updateDelay);
 }
 
