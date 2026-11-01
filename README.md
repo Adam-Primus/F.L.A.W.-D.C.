@@ -1,6 +1,6 @@
 # F.L.A.W.-D.C.
 ## *Follows Line Autonomous Weak - Dumb Car*
-**F.L.A.W.-D.C** is a simple line follower autonomus toy car that is controlled by a Microcontroller [DOIT ESP32 Devkit v1] and runs on electricity.
+**F.L.A.W.-D.C** is a simple line follower autonomous toy car that is controlled by a Microcontroller [DOIT ESP32 Devkit v1] . It has a motor driver L298N that controls the motors which is controlled by esp32. It uses Infrared sensors to send digital signals to microcontroller that help to car to stay on track. And it runs on electricity.
 
 ## Why make this ?
 
