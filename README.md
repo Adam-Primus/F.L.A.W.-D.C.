@@ -16,7 +16,7 @@ I hope its understandable.
 
 ## Bill of Materials (BOM)
 
-https://github.com/Adam-Primus/F.L.A.W.-D.C./blob/main/BOM.csv
+[Click Here to View BOM](https://github.com/Adam-Primus/F.L.A.W.-D.C./blob/main/BOM.csv)
 
 | Component Name | Description | Qty | Cost (USD) | Total | Source / Link |
 | :--- | :--- | :---: | :---: | :--- | :--- |
