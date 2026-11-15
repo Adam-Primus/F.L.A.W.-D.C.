@@ -10,7 +10,7 @@ will be a newer experience to me and additionally I still have to cover a large 
 ## Schematics
 I hope its understandable.
 
-<img width="1366" height="712" alt="schematics in img format" src="https://github.com/user-attachments/assets/886e9daa-eaf9-48f2-8841-91e137fa31d6" />
+<img width="1366" height="712" alt="schematics in img format" src="https://github.com/Adam-Primus/F.L.A.W.-D.C./blob/main/Assets/schematics.png" />
 
 [Click Here to View File](https://github.com/Adam-Primus/F.L.A.W.-D.C./blob/main/Kicad%20Files/Kicad%20Files.kicad_sch)
 
@@ -34,4 +34,4 @@ https://github.com/Adam-Primus/F.L.A.W.-D.C./blob/main/BOM.csv
 
 ## 3D Model
 Pardon the bad designing, I am a beginner .
-<img width="713" height="529" alt="Screenshot 2026-11-16 000321" src="https://github.com/user-attachments/assets/ec680e42-5935-4939-b495-d0d7ab9416e5" />
+<img width="713" height="529" alt="Screenshot 2026-11-16 000321" src="https://github.com/Adam-Primus/F.L.A.W.-D.C./blob/main/Assets/cad.png" />
