@@ -31,3 +31,7 @@ https://github.com/Adam-Primus/F.L.A.W.-D.C./blob/main/BOM.csv
 | SmartElex Infrared Sensor Module | The Infrared Sensor to detect the black line. | 3 | $0.93 | $2.78 | https://robu.in/product/smartelex-infrared-obstacle-avoidance-sensor-module-active-low/ |
 | 3.7v Li-ion Battery | The Power source. | 2 | $0.47 | $0.94 | Local Marketplace [Because Online was way too much expensive]. |
 | **Total** | | **15** |  | **$13.56** | |
+
+## 3D Model
+Pardon the bad designing, I am a beginner .
+<img width="713" height="529" alt="Screenshot 2026-11-16 000321" src="https://github.com/user-attachments/assets/ec680e42-5935-4939-b495-d0d7ab9416e5" />
